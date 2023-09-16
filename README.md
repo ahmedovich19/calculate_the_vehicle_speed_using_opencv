@@ -1,2 +1,2 @@
-# calculate_the_vehicle_speed_using_opencv
+# Calculate the vehicle speed using opencv
 in this notebooks we calculate the vehicles speed in the highways using opencv 
